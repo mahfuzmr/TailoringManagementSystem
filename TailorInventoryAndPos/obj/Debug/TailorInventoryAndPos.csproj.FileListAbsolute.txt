@@ -1,0 +1,67 @@
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe.config
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.pdb
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csprojResolveAssemblyReference.cache
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.Properties.Resources.resources
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csproj.GenerateResource.Cache
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.exe
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.pdb
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.LoginForm.resources
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.Booking.resources
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewStaff.resources
+C:\Users\MAROB\Dropbox\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewProduct.resources
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe.config
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.exe
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.pdb
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.pdb
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csprojResolveAssemblyReference.cache
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.Properties.Resources.resources
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.Booking.resources
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.LoginForm.resources
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewProduct.resources
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewStaff.resources
+C:\Users\jaxara\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csproj.GenerateResource.Cache
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe.config
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.exe
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.pdb
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.pdb
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csprojResolveAssemblyReference.cache
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.Properties.Resources.resources
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.Booking.resources
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.LoginForm.resources
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewProduct.resources
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewStaff.resources
+C:\Users\lab2\Dropbox\My Project\TailorApplication\TailorInventoryAndPos\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csproj.GenerateResource.Cache
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe.config
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.exe
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.pdb
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.pdb
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csprojResolveAssemblyReference.cache
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.Properties.Resources.resources
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.Booking.resources
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.LoginForm.resources
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewProduct.resources
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewStaff.resources
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewSupplier.resources
+C:\Users\MAROB\Dropbox\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csproj.GenerateResource.Cache
+J:\Project\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe.config
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.exe
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.pdb
+J:\Project\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe
+J:\Project\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.pdb
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csprojResolveAssemblyReference.cache
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.Properties.Resources.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.Booking.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.CustomersAccount.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.DailyTaskReport.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.InvoiceReport.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.LoginForm.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewProduct.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewStaff.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewSupplier.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.SellReport.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.StuffAccount.resources
+J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csproj.GenerateResource.Cache
