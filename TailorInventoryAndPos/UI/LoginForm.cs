@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TailorInventoryAndPos.UI;
 
 namespace TailorInventoryAndPos
 {
@@ -19,7 +20,8 @@ namespace TailorInventoryAndPos
 
         private void exitButton_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            HomePage aPage=new HomePage();
+            aPage.Show();
         }
     }
 }

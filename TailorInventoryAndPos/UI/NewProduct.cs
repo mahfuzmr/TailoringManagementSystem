@@ -16,5 +16,11 @@ namespace TailorInventoryAndPos.UI
         {
             InitializeComponent();
         }
+
+        private void cancleButton_Click(object sender, EventArgs e)
+        {
+            HomePage aPage=new HomePage();
+            aPage.Show();
+        }
     }
 }

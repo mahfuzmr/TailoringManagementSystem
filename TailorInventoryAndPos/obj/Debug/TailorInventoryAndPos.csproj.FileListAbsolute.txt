@@ -65,3 +65,6 @@ J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.NewSupplier.
 J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.SellReport.resources
 J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.UI.StuffAccount.resources
 J:\Project\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.csproj.GenerateResource.Cache
+C:\Users\lab2\Desktop\TailoringManagementSystem\TailorInventoryAndPos\bin\Debug\TailorInventoryAndPos.exe.config
+C:\Users\lab2\Desktop\TailoringManagementSystem\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.exe
+C:\Users\lab2\Desktop\TailoringManagementSystem\TailorInventoryAndPos\obj\Debug\TailorInventoryAndPos.pdb

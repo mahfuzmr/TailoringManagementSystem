@@ -62,6 +62,12 @@
     <Compile Include="UI\DailyTaskReport.Designer.cs">
       <DependentUpon>DailyTaskReport.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\InvoiceReport.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +120,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="UI\Booking.resx">
       <DependentUpon>Booking.cs</DependentUpon>
@@ -123,6 +130,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\DailyTaskReport.resx">
       <DependentUpon>DailyTaskReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\InvoiceReport.resx">
       <DependentUpon>InvoiceReport.cs</DependentUpon>
@@ -157,6 +167,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\tailor-ant-team-ants-sewing-wear-teamwork-15772114.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

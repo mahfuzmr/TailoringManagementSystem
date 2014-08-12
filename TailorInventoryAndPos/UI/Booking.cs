@@ -17,6 +17,13 @@ namespace TailorInventoryAndPos.UI
             InitializeComponent();
         }
 
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            HomePage aHomePage=new HomePage();
+            aHomePage.Show();
+
+        }
+
        
 
        

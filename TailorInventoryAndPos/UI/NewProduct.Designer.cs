@@ -41,12 +41,12 @@
             this.label5 = new System.Windows.Forms.Label();
             this.currentStockTextBox = new System.Windows.Forms.TextBox();
             this.stockTextBox = new System.Windows.Forms.TextBox();
+            this.providerNameTextBox = new System.Windows.Forms.TextBox();
+            this.productNameTextBox = new System.Windows.Forms.TextBox();
             this.saleTextBox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.providerNameTextBox = new System.Windows.Forms.TextBox();
-            this.productNameTextBox = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -83,6 +83,7 @@
             this.cancleButton.TabIndex = 49;
             this.cancleButton.Text = "Cancle";
             this.cancleButton.UseVisualStyleBackColor = true;
+            this.cancleButton.Click += new System.EventHandler(this.cancleButton_Click);
             // 
             // addButton
             // 
@@ -175,6 +176,20 @@
             this.stockTextBox.Size = new System.Drawing.Size(175, 20);
             this.stockTextBox.TabIndex = 43;
             // 
+            // providerNameTextBox
+            // 
+            this.providerNameTextBox.Location = new System.Drawing.Point(144, 20);
+            this.providerNameTextBox.Name = "providerNameTextBox";
+            this.providerNameTextBox.Size = new System.Drawing.Size(175, 20);
+            this.providerNameTextBox.TabIndex = 41;
+            // 
+            // productNameTextBox
+            // 
+            this.productNameTextBox.Location = new System.Drawing.Point(144, 57);
+            this.productNameTextBox.Name = "productNameTextBox";
+            this.productNameTextBox.Size = new System.Drawing.Size(175, 20);
+            this.productNameTextBox.TabIndex = 41;
+            // 
             // saleTextBox
             // 
             this.saleTextBox.Location = new System.Drawing.Point(144, 192);
@@ -208,20 +223,6 @@
             this.label3.Size = new System.Drawing.Size(36, 13);
             this.label3.TabIndex = 36;
             this.label3.Text = "Grade";
-            // 
-            // providerNameTextBox
-            // 
-            this.providerNameTextBox.Location = new System.Drawing.Point(144, 20);
-            this.providerNameTextBox.Name = "providerNameTextBox";
-            this.providerNameTextBox.Size = new System.Drawing.Size(175, 20);
-            this.providerNameTextBox.TabIndex = 41;
-            // 
-            // productNameTextBox
-            // 
-            this.productNameTextBox.Location = new System.Drawing.Point(144, 57);
-            this.productNameTextBox.Name = "productNameTextBox";
-            this.productNameTextBox.Size = new System.Drawing.Size(175, 20);
-            this.productNameTextBox.TabIndex = 41;
             // 
             // NewProduct
             // 

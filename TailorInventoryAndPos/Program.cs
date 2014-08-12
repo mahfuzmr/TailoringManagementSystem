@@ -18,8 +18,9 @@ namespace TailorInventoryAndPos
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
            // Application.Run(new LoginForm());
-            Application.Run(new Booking());
+            //Application.Run(new Booking());
            // Application.Run(new NewStaff());
+            Application.Run(new HomePage());
         }
     }
 }

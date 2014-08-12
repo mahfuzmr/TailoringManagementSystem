@@ -32,6 +32,19 @@
             this.newBookingTabPage = new System.Windows.Forms.TabPage();
             this.panel4 = new System.Windows.Forms.Panel();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.checkBox4 = new System.Windows.Forms.CheckBox();
+            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.label29 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
             this.orderNumberLabel = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
@@ -122,37 +135,6 @@
             this.searchTabPage = new System.Windows.Forms.TabPage();
             this.tabControl2 = new System.Windows.Forms.TabControl();
             this.shopStuffTbPage = new System.Windows.Forms.TabPage();
-            this.tailoringStuffTabPage = new System.Windows.Forms.TabPage();
-            this.customerTabPage = new System.Windows.Forms.TabPage();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.cuttingStuffTabPage = new System.Windows.Forms.TabPage();
-            this.suppliersTabPage = new System.Windows.Forms.TabPage();
-            this.measurmentsTabPage = new System.Windows.Forms.TabPage();
-            this.cashBookTabPage = new System.Windows.Forms.TabPage();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.expenditureToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
-            this.label29 = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.label20 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.panel8 = new System.Windows.Forms.Panel();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.button4 = new System.Windows.Forms.Button();
@@ -161,6 +143,7 @@
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.tailoringStuffTabPage = new System.Windows.Forms.TabPage();
             this.panel9 = new System.Windows.Forms.Panel();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
             this.button6 = new System.Windows.Forms.Button();
@@ -169,14 +152,17 @@
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.radioButton6 = new System.Windows.Forms.RadioButton();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.dataGridView4 = new System.Windows.Forms.DataGridView();
-            this.button8 = new System.Windows.Forms.Button();
-            this.label26 = new System.Windows.Forms.Label();
-            this.button9 = new System.Windows.Forms.Button();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.radioButton7 = new System.Windows.Forms.RadioButton();
-            this.radioButton8 = new System.Windows.Forms.RadioButton();
+            this.customerTabPage = new System.Windows.Forms.TabPage();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label20 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.cuttingStuffTabPage = new System.Windows.Forms.TabPage();
             this.panel11 = new System.Windows.Forms.Panel();
             this.dataGridView5 = new System.Windows.Forms.DataGridView();
             this.button10 = new System.Windows.Forms.Button();
@@ -185,24 +171,38 @@
             this.textBox9 = new System.Windows.Forms.TextBox();
             this.radioButton9 = new System.Windows.Forms.RadioButton();
             this.radioButton10 = new System.Windows.Forms.RadioButton();
+            this.suppliersTabPage = new System.Windows.Forms.TabPage();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.dataGridView4 = new System.Windows.Forms.DataGridView();
+            this.button8 = new System.Windows.Forms.Button();
+            this.label26 = new System.Windows.Forms.Label();
+            this.button9 = new System.Windows.Forms.Button();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.radioButton7 = new System.Windows.Forms.RadioButton();
+            this.radioButton8 = new System.Windows.Forms.RadioButton();
+            this.measurmentsTabPage = new System.Windows.Forms.TabPage();
             this.panel12 = new System.Windows.Forms.Panel();
-            this.propertyGrid1 = new System.Windows.Forms.PropertyGrid();
             this.panel13 = new System.Windows.Forms.Panel();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.button12 = new System.Windows.Forms.Button();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.propertyGrid1 = new System.Windows.Forms.PropertyGrid();
+            this.cashBookTabPage = new System.Windows.Forms.TabPage();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.expenditureToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tabControl1.SuspendLayout();
             this.newBookingTabPage.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -222,24 +222,24 @@
             this.searchTabPage.SuspendLayout();
             this.tabControl2.SuspendLayout();
             this.shopStuffTbPage.SuspendLayout();
-            this.tailoringStuffTabPage.SuspendLayout();
-            this.customerTabPage.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.cuttingStuffTabPage.SuspendLayout();
-            this.suppliersTabPage.SuspendLayout();
-            this.measurmentsTabPage.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            this.tailoringStuffTabPage.SuspendLayout();
             this.panel9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
-            this.panel10.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
+            this.customerTabPage.SuspendLayout();
+            this.panel7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.cuttingStuffTabPage.SuspendLayout();
             this.panel11.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).BeginInit();
+            this.suppliersTabPage.SuspendLayout();
+            this.panel10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
+            this.measurmentsTabPage.SuspendLayout();
             this.panel12.SuspendLayout();
             this.panel13.SuspendLayout();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -306,6 +306,122 @@
             this.groupBox3.TabIndex = 0;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Pants";
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(67, 164);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(178, 22);
+            this.textBox5.TabIndex = 4;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(67, 130);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(178, 22);
+            this.textBox4.TabIndex = 4;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(67, 104);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(178, 22);
+            this.textBox3.TabIndex = 4;
+            // 
+            // checkBox5
+            // 
+            this.checkBox5.AutoSize = true;
+            this.checkBox5.Location = new System.Drawing.Point(67, 70);
+            this.checkBox5.Name = "checkBox5";
+            this.checkBox5.Size = new System.Drawing.Size(42, 20);
+            this.checkBox5.TabIndex = 3;
+            this.checkBox5.Text = "ok";
+            this.checkBox5.UseVisualStyleBackColor = true;
+            // 
+            // checkBox4
+            // 
+            this.checkBox4.AutoSize = true;
+            this.checkBox4.Location = new System.Drawing.Point(67, 54);
+            this.checkBox4.Name = "checkBox4";
+            this.checkBox4.Size = new System.Drawing.Size(116, 20);
+            this.checkBox4.TabIndex = 2;
+            this.checkBox4.Text = "Straight pocket";
+            this.checkBox4.UseVisualStyleBackColor = true;
+            // 
+            // checkBox3
+            // 
+            this.checkBox3.AutoSize = true;
+            this.checkBox3.Location = new System.Drawing.Point(264, 36);
+            this.checkBox3.Name = "checkBox3";
+            this.checkBox3.Size = new System.Drawing.Size(106, 20);
+            this.checkBox3.TabIndex = 2;
+            this.checkBox3.Text = "Cross pocket";
+            this.checkBox3.UseVisualStyleBackColor = true;
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(155, 36);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(112, 20);
+            this.checkBox2.TabIndex = 2;
+            this.checkBox2.Text = "Mobile pocket";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(66, 36);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(92, 20);
+            this.checkBox1.TabIndex = 2;
+            this.checkBox1.Text = "Hip pocket";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.Location = new System.Drawing.Point(11, 170);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(42, 16);
+            this.label29.TabIndex = 1;
+            this.label29.Text = "Waist";
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Location = new System.Drawing.Point(10, 104);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(39, 16);
+            this.label25.TabIndex = 1;
+            this.label25.Text = "Hight";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Location = new System.Drawing.Point(10, 136);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(48, 16);
+            this.label27.TabIndex = 1;
+            this.label27.Text = "Length";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(11, 71);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(39, 16);
+            this.label23.TabIndex = 1;
+            this.label23.Text = "Loop";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(10, 37);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(50, 16);
+            this.label21.TabIndex = 1;
+            this.label21.Text = "Pocket";
             // 
             // orderNumberLabel
             // 
@@ -722,6 +838,7 @@
             this.exitButton.TabIndex = 1;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
+            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
             // saveButton
             // 
@@ -1141,296 +1258,6 @@
             this.shopStuffTbPage.Text = "Shop Stuff";
             this.shopStuffTbPage.UseVisualStyleBackColor = true;
             // 
-            // tailoringStuffTabPage
-            // 
-            this.tailoringStuffTabPage.Controls.Add(this.panel9);
-            this.tailoringStuffTabPage.Location = new System.Drawing.Point(4, 25);
-            this.tailoringStuffTabPage.Name = "tailoringStuffTabPage";
-            this.tailoringStuffTabPage.Padding = new System.Windows.Forms.Padding(3);
-            this.tailoringStuffTabPage.Size = new System.Drawing.Size(743, 464);
-            this.tailoringStuffTabPage.TabIndex = 1;
-            this.tailoringStuffTabPage.Text = "Tailoring Stuff";
-            this.tailoringStuffTabPage.UseVisualStyleBackColor = true;
-            // 
-            // customerTabPage
-            // 
-            this.customerTabPage.Controls.Add(this.panel7);
-            this.customerTabPage.Location = new System.Drawing.Point(4, 25);
-            this.customerTabPage.Name = "customerTabPage";
-            this.customerTabPage.Padding = new System.Windows.Forms.Padding(3);
-            this.customerTabPage.Size = new System.Drawing.Size(743, 464);
-            this.customerTabPage.TabIndex = 2;
-            this.customerTabPage.Text = "Customer";
-            this.customerTabPage.UseVisualStyleBackColor = true;
-            // 
-            // panel7
-            // 
-            this.panel7.Controls.Add(this.dataGridView1);
-            this.panel7.Controls.Add(this.button3);
-            this.panel7.Controls.Add(this.button2);
-            this.panel7.Controls.Add(this.label20);
-            this.panel7.Controls.Add(this.button1);
-            this.panel7.Controls.Add(this.textBox2);
-            this.panel7.Controls.Add(this.radioButton2);
-            this.panel7.Controls.Add(this.radioButton1);
-            this.panel7.Location = new System.Drawing.Point(6, 6);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(731, 448);
-            this.panel7.TabIndex = 0;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(248, 25);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 31);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Search";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(17, 30);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(214, 22);
-            this.textBox2.TabIndex = 1;
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(464, 15);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(56, 20);
-            this.radioButton2.TabIndex = 0;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "By Id";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(329, 15);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(84, 20);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "By Phone";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            // 
-            // cuttingStuffTabPage
-            // 
-            this.cuttingStuffTabPage.Controls.Add(this.panel11);
-            this.cuttingStuffTabPage.Location = new System.Drawing.Point(4, 25);
-            this.cuttingStuffTabPage.Name = "cuttingStuffTabPage";
-            this.cuttingStuffTabPage.Size = new System.Drawing.Size(743, 464);
-            this.cuttingStuffTabPage.TabIndex = 3;
-            this.cuttingStuffTabPage.Text = "Cutting Stuff";
-            this.cuttingStuffTabPage.UseVisualStyleBackColor = true;
-            // 
-            // suppliersTabPage
-            // 
-            this.suppliersTabPage.Controls.Add(this.panel10);
-            this.suppliersTabPage.Location = new System.Drawing.Point(4, 25);
-            this.suppliersTabPage.Name = "suppliersTabPage";
-            this.suppliersTabPage.Size = new System.Drawing.Size(743, 464);
-            this.suppliersTabPage.TabIndex = 4;
-            this.suppliersTabPage.Text = "Suppliers";
-            this.suppliersTabPage.UseVisualStyleBackColor = true;
-            // 
-            // measurmentsTabPage
-            // 
-            this.measurmentsTabPage.Controls.Add(this.panel12);
-            this.measurmentsTabPage.Location = new System.Drawing.Point(4, 29);
-            this.measurmentsTabPage.Name = "measurmentsTabPage";
-            this.measurmentsTabPage.Padding = new System.Windows.Forms.Padding(3);
-            this.measurmentsTabPage.Size = new System.Drawing.Size(764, 536);
-            this.measurmentsTabPage.TabIndex = 4;
-            this.measurmentsTabPage.Text = "Measurments";
-            this.measurmentsTabPage.UseVisualStyleBackColor = true;
-            // 
-            // cashBookTabPage
-            // 
-            this.cashBookTabPage.Location = new System.Drawing.Point(4, 29);
-            this.cashBookTabPage.Name = "cashBookTabPage";
-            this.cashBookTabPage.Padding = new System.Windows.Forms.Padding(3);
-            this.cashBookTabPage.Size = new System.Drawing.Size(764, 536);
-            this.cashBookTabPage.TabIndex = 5;
-            this.cashBookTabPage.Text = "Cash Book";
-            this.cashBookTabPage.UseVisualStyleBackColor = true;
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.fileToolStripMenuItem,
-            this.expenditureToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(784, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // fileToolStripMenuItem
-            // 
-            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
-            this.fileToolStripMenuItem.Text = "File";
-            // 
-            // expenditureToolStripMenuItem
-            // 
-            this.expenditureToolStripMenuItem.Name = "expenditureToolStripMenuItem";
-            this.expenditureToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
-            this.expenditureToolStripMenuItem.Text = "Expenditure";
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(10, 37);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(50, 16);
-            this.label21.TabIndex = 1;
-            this.label21.Text = "Pocket";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(11, 71);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(39, 16);
-            this.label23.TabIndex = 1;
-            this.label23.Text = "Loop";
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(10, 104);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(39, 16);
-            this.label25.TabIndex = 1;
-            this.label25.Text = "Hight";
-            // 
-            // label27
-            // 
-            this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(10, 136);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(48, 16);
-            this.label27.TabIndex = 1;
-            this.label27.Text = "Length";
-            // 
-            // label29
-            // 
-            this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(11, 170);
-            this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(42, 16);
-            this.label29.TabIndex = 1;
-            this.label29.Text = "Waist";
-            // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(66, 36);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(92, 20);
-            this.checkBox1.TabIndex = 2;
-            this.checkBox1.Text = "Hip pocket";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
-            // checkBox2
-            // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(155, 36);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(112, 20);
-            this.checkBox2.TabIndex = 2;
-            this.checkBox2.Text = "Mobile pocket";
-            this.checkBox2.UseVisualStyleBackColor = true;
-            // 
-            // checkBox3
-            // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(264, 36);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(106, 20);
-            this.checkBox3.TabIndex = 2;
-            this.checkBox3.Text = "Cross pocket";
-            this.checkBox3.UseVisualStyleBackColor = true;
-            // 
-            // checkBox4
-            // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(67, 54);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(116, 20);
-            this.checkBox4.TabIndex = 2;
-            this.checkBox4.Text = "Straight pocket";
-            this.checkBox4.UseVisualStyleBackColor = true;
-            // 
-            // checkBox5
-            // 
-            this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(67, 70);
-            this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(42, 20);
-            this.checkBox5.TabIndex = 3;
-            this.checkBox5.Text = "ok";
-            this.checkBox5.UseVisualStyleBackColor = true;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(67, 104);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(178, 22);
-            this.textBox3.TabIndex = 4;
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(67, 130);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(178, 22);
-            this.textBox4.TabIndex = 4;
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(67, 164);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(178, 22);
-            this.textBox5.TabIndex = 4;
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(21, 10);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(103, 16);
-            this.label20.TabIndex = 3;
-            this.label20.Text = "Customer Detail";
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(370, 406);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(101, 39);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "New Booking";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(489, 405);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(105, 40);
-            this.button3.TabIndex = 5;
-            this.button3.Text = "Show_Info";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(3, 82);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(725, 317);
-            this.dataGridView1.TabIndex = 6;
-            // 
             // panel8
             // 
             this.panel8.Controls.Add(this.dataGridView2);
@@ -1508,6 +1335,17 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "By Phone";
             this.radioButton4.UseVisualStyleBackColor = true;
+            // 
+            // tailoringStuffTabPage
+            // 
+            this.tailoringStuffTabPage.Controls.Add(this.panel9);
+            this.tailoringStuffTabPage.Location = new System.Drawing.Point(4, 25);
+            this.tailoringStuffTabPage.Name = "tailoringStuffTabPage";
+            this.tailoringStuffTabPage.Padding = new System.Windows.Forms.Padding(3);
+            this.tailoringStuffTabPage.Size = new System.Drawing.Size(743, 464);
+            this.tailoringStuffTabPage.TabIndex = 1;
+            this.tailoringStuffTabPage.Text = "Tailoring Stuff";
+            this.tailoringStuffTabPage.UseVisualStyleBackColor = true;
             // 
             // panel9
             // 
@@ -1587,83 +1425,114 @@
             this.radioButton6.Text = "By Phone";
             this.radioButton6.UseVisualStyleBackColor = true;
             // 
-            // panel10
+            // customerTabPage
             // 
-            this.panel10.Controls.Add(this.dataGridView4);
-            this.panel10.Controls.Add(this.button8);
-            this.panel10.Controls.Add(this.label26);
-            this.panel10.Controls.Add(this.button9);
-            this.panel10.Controls.Add(this.textBox8);
-            this.panel10.Controls.Add(this.radioButton7);
-            this.panel10.Controls.Add(this.radioButton8);
-            this.panel10.Location = new System.Drawing.Point(6, 12);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(731, 441);
-            this.panel10.TabIndex = 1;
+            this.customerTabPage.Controls.Add(this.panel7);
+            this.customerTabPage.Location = new System.Drawing.Point(4, 25);
+            this.customerTabPage.Name = "customerTabPage";
+            this.customerTabPage.Padding = new System.Windows.Forms.Padding(3);
+            this.customerTabPage.Size = new System.Drawing.Size(743, 464);
+            this.customerTabPage.TabIndex = 2;
+            this.customerTabPage.Text = "Customer";
+            this.customerTabPage.UseVisualStyleBackColor = true;
             // 
-            // dataGridView4
+            // panel7
             // 
-            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView4.Location = new System.Drawing.Point(3, 76);
-            this.dataGridView4.Name = "dataGridView4";
-            this.dataGridView4.Size = new System.Drawing.Size(725, 317);
-            this.dataGridView4.TabIndex = 13;
+            this.panel7.Controls.Add(this.dataGridView1);
+            this.panel7.Controls.Add(this.button3);
+            this.panel7.Controls.Add(this.button2);
+            this.panel7.Controls.Add(this.label20);
+            this.panel7.Controls.Add(this.button1);
+            this.panel7.Controls.Add(this.textBox2);
+            this.panel7.Controls.Add(this.radioButton2);
+            this.panel7.Controls.Add(this.radioButton1);
+            this.panel7.Location = new System.Drawing.Point(6, 6);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(731, 448);
+            this.panel7.TabIndex = 0;
             // 
-            // button8
+            // dataGridView1
             // 
-            this.button8.Location = new System.Drawing.Point(489, 399);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(105, 40);
-            this.button8.TabIndex = 12;
-            this.button8.Text = "Show_Info";
-            this.button8.UseVisualStyleBackColor = true;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(3, 82);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(725, 317);
+            this.dataGridView1.TabIndex = 6;
             // 
-            // label26
+            // button3
             // 
-            this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(21, 4);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(103, 16);
-            this.label26.TabIndex = 11;
-            this.label26.Text = "Suppliers Detail";
+            this.button3.Location = new System.Drawing.Point(489, 405);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(105, 40);
+            this.button3.TabIndex = 5;
+            this.button3.Text = "Show_Info";
+            this.button3.UseVisualStyleBackColor = true;
             // 
-            // button9
+            // button2
             // 
-            this.button9.Location = new System.Drawing.Point(248, 19);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(75, 31);
-            this.button9.TabIndex = 10;
-            this.button9.Text = "Search";
-            this.button9.UseVisualStyleBackColor = true;
+            this.button2.Location = new System.Drawing.Point(370, 406);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(101, 39);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "New Booking";
+            this.button2.UseVisualStyleBackColor = true;
             // 
-            // textBox8
+            // label20
             // 
-            this.textBox8.Location = new System.Drawing.Point(17, 24);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(214, 22);
-            this.textBox8.TabIndex = 9;
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(21, 10);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(103, 16);
+            this.label20.TabIndex = 3;
+            this.label20.Text = "Customer Detail";
             // 
-            // radioButton7
+            // button1
             // 
-            this.radioButton7.AutoSize = true;
-            this.radioButton7.Location = new System.Drawing.Point(464, 9);
-            this.radioButton7.Name = "radioButton7";
-            this.radioButton7.Size = new System.Drawing.Size(56, 20);
-            this.radioButton7.TabIndex = 7;
-            this.radioButton7.TabStop = true;
-            this.radioButton7.Text = "By Id";
-            this.radioButton7.UseVisualStyleBackColor = true;
+            this.button1.Location = new System.Drawing.Point(248, 25);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 31);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Search";
+            this.button1.UseVisualStyleBackColor = true;
             // 
-            // radioButton8
+            // textBox2
             // 
-            this.radioButton8.AutoSize = true;
-            this.radioButton8.Location = new System.Drawing.Point(329, 9);
-            this.radioButton8.Name = "radioButton8";
-            this.radioButton8.Size = new System.Drawing.Size(84, 20);
-            this.radioButton8.TabIndex = 8;
-            this.radioButton8.TabStop = true;
-            this.radioButton8.Text = "By Phone";
-            this.radioButton8.UseVisualStyleBackColor = true;
+            this.textBox2.Location = new System.Drawing.Point(17, 30);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(214, 22);
+            this.textBox2.TabIndex = 1;
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(464, 15);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(56, 20);
+            this.radioButton2.TabIndex = 0;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "By Id";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(329, 15);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(84, 20);
+            this.radioButton1.TabIndex = 0;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "By Phone";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // cuttingStuffTabPage
+            // 
+            this.cuttingStuffTabPage.Controls.Add(this.panel11);
+            this.cuttingStuffTabPage.Location = new System.Drawing.Point(4, 25);
+            this.cuttingStuffTabPage.Name = "cuttingStuffTabPage";
+            this.cuttingStuffTabPage.Size = new System.Drawing.Size(743, 464);
+            this.cuttingStuffTabPage.TabIndex = 3;
+            this.cuttingStuffTabPage.Text = "Cutting Stuff";
+            this.cuttingStuffTabPage.UseVisualStyleBackColor = true;
             // 
             // panel11
             // 
@@ -1743,6 +1612,105 @@
             this.radioButton10.Text = "By Phone";
             this.radioButton10.UseVisualStyleBackColor = true;
             // 
+            // suppliersTabPage
+            // 
+            this.suppliersTabPage.Controls.Add(this.panel10);
+            this.suppliersTabPage.Location = new System.Drawing.Point(4, 25);
+            this.suppliersTabPage.Name = "suppliersTabPage";
+            this.suppliersTabPage.Size = new System.Drawing.Size(743, 464);
+            this.suppliersTabPage.TabIndex = 4;
+            this.suppliersTabPage.Text = "Suppliers";
+            this.suppliersTabPage.UseVisualStyleBackColor = true;
+            // 
+            // panel10
+            // 
+            this.panel10.Controls.Add(this.dataGridView4);
+            this.panel10.Controls.Add(this.button8);
+            this.panel10.Controls.Add(this.label26);
+            this.panel10.Controls.Add(this.button9);
+            this.panel10.Controls.Add(this.textBox8);
+            this.panel10.Controls.Add(this.radioButton7);
+            this.panel10.Controls.Add(this.radioButton8);
+            this.panel10.Location = new System.Drawing.Point(6, 12);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(731, 441);
+            this.panel10.TabIndex = 1;
+            // 
+            // dataGridView4
+            // 
+            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView4.Location = new System.Drawing.Point(3, 76);
+            this.dataGridView4.Name = "dataGridView4";
+            this.dataGridView4.Size = new System.Drawing.Size(725, 317);
+            this.dataGridView4.TabIndex = 13;
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(489, 399);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(105, 40);
+            this.button8.TabIndex = 12;
+            this.button8.Text = "Show_Info";
+            this.button8.UseVisualStyleBackColor = true;
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Location = new System.Drawing.Point(21, 4);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(103, 16);
+            this.label26.TabIndex = 11;
+            this.label26.Text = "Suppliers Detail";
+            // 
+            // button9
+            // 
+            this.button9.Location = new System.Drawing.Point(248, 19);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(75, 31);
+            this.button9.TabIndex = 10;
+            this.button9.Text = "Search";
+            this.button9.UseVisualStyleBackColor = true;
+            // 
+            // textBox8
+            // 
+            this.textBox8.Location = new System.Drawing.Point(17, 24);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(214, 22);
+            this.textBox8.TabIndex = 9;
+            // 
+            // radioButton7
+            // 
+            this.radioButton7.AutoSize = true;
+            this.radioButton7.Location = new System.Drawing.Point(464, 9);
+            this.radioButton7.Name = "radioButton7";
+            this.radioButton7.Size = new System.Drawing.Size(56, 20);
+            this.radioButton7.TabIndex = 7;
+            this.radioButton7.TabStop = true;
+            this.radioButton7.Text = "By Id";
+            this.radioButton7.UseVisualStyleBackColor = true;
+            // 
+            // radioButton8
+            // 
+            this.radioButton8.AutoSize = true;
+            this.radioButton8.Location = new System.Drawing.Point(329, 9);
+            this.radioButton8.Name = "radioButton8";
+            this.radioButton8.Size = new System.Drawing.Size(84, 20);
+            this.radioButton8.TabIndex = 8;
+            this.radioButton8.TabStop = true;
+            this.radioButton8.Text = "By Phone";
+            this.radioButton8.UseVisualStyleBackColor = true;
+            // 
+            // measurmentsTabPage
+            // 
+            this.measurmentsTabPage.Controls.Add(this.panel12);
+            this.measurmentsTabPage.Location = new System.Drawing.Point(4, 29);
+            this.measurmentsTabPage.Name = "measurmentsTabPage";
+            this.measurmentsTabPage.Padding = new System.Windows.Forms.Padding(3);
+            this.measurmentsTabPage.Size = new System.Drawing.Size(764, 536);
+            this.measurmentsTabPage.TabIndex = 4;
+            this.measurmentsTabPage.Text = "Measurments";
+            this.measurmentsTabPage.UseVisualStyleBackColor = true;
+            // 
             // panel12
             // 
             this.panel12.Controls.Add(this.panel13);
@@ -1751,13 +1719,6 @@
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(751, 494);
             this.panel12.TabIndex = 0;
-            // 
-            // propertyGrid1
-            // 
-            this.propertyGrid1.Location = new System.Drawing.Point(3, 0);
-            this.propertyGrid1.Name = "propertyGrid1";
-            this.propertyGrid1.Size = new System.Drawing.Size(354, 488);
-            this.propertyGrid1.TabIndex = 0;
             // 
             // panel13
             // 
@@ -1782,111 +1743,14 @@
             this.panel13.Size = new System.Drawing.Size(384, 487);
             this.panel13.TabIndex = 1;
             // 
-            // label30
+            // button14
             // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(21, 39);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(82, 16);
-            this.label30.TabIndex = 0;
-            this.label30.Text = "Customer Id:";
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(48, 69);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(47, 16);
-            this.label31.TabIndex = 0;
-            this.label31.Text = "Phone";
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(48, 99);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(45, 16);
-            this.label32.TabIndex = 0;
-            this.label32.Text = "Name";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(48, 130);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(59, 16);
-            this.label33.TabIndex = 0;
-            this.label33.Text = "Address";
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(48, 162);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(80, 16);
-            this.label34.TabIndex = 0;
-            this.label34.Text = "Designation";
-            // 
-            // label35
-            // 
-            this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(48, 191);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(37, 16);
-            this.label35.TabIndex = 0;
-            this.label35.Text = "Note";
-            // 
-            // textBox10
-            // 
-            this.textBox10.Location = new System.Drawing.Point(107, 39);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(182, 22);
-            this.textBox10.TabIndex = 1;
-            // 
-            // textBox11
-            // 
-            this.textBox11.Location = new System.Drawing.Point(107, 65);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(182, 22);
-            this.textBox11.TabIndex = 1;
-            // 
-            // textBox12
-            // 
-            this.textBox12.Location = new System.Drawing.Point(107, 95);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(182, 22);
-            this.textBox12.TabIndex = 1;
-            // 
-            // textBox13
-            // 
-            this.textBox13.Location = new System.Drawing.Point(107, 125);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(182, 22);
-            this.textBox13.TabIndex = 1;
-            // 
-            // textBox14
-            // 
-            this.textBox14.Location = new System.Drawing.Point(106, 156);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(182, 22);
-            this.textBox14.TabIndex = 1;
-            // 
-            // textBox15
-            // 
-            this.textBox15.Location = new System.Drawing.Point(107, 185);
-            this.textBox15.Multiline = true;
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(264, 94);
-            this.textBox15.TabIndex = 1;
-            // 
-            // button12
-            // 
-            this.button12.Location = new System.Drawing.Point(296, 37);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(75, 35);
-            this.button12.TabIndex = 2;
-            this.button12.Text = "Find";
-            this.button12.UseVisualStyleBackColor = true;
+            this.button14.Location = new System.Drawing.Point(144, 422);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(75, 35);
+            this.button14.TabIndex = 2;
+            this.button14.Text = "Print";
+            this.button14.UseVisualStyleBackColor = true;
             // 
             // button13
             // 
@@ -1897,14 +1761,151 @@
             this.button13.Text = "Find Another";
             this.button13.UseVisualStyleBackColor = true;
             // 
-            // button14
+            // button12
             // 
-            this.button14.Location = new System.Drawing.Point(144, 422);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(75, 35);
-            this.button14.TabIndex = 2;
-            this.button14.Text = "Print";
-            this.button14.UseVisualStyleBackColor = true;
+            this.button12.Location = new System.Drawing.Point(296, 37);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(75, 35);
+            this.button12.TabIndex = 2;
+            this.button12.Text = "Find";
+            this.button12.UseVisualStyleBackColor = true;
+            // 
+            // textBox15
+            // 
+            this.textBox15.Location = new System.Drawing.Point(107, 185);
+            this.textBox15.Multiline = true;
+            this.textBox15.Name = "textBox15";
+            this.textBox15.Size = new System.Drawing.Size(264, 94);
+            this.textBox15.TabIndex = 1;
+            // 
+            // textBox14
+            // 
+            this.textBox14.Location = new System.Drawing.Point(106, 156);
+            this.textBox14.Name = "textBox14";
+            this.textBox14.Size = new System.Drawing.Size(182, 22);
+            this.textBox14.TabIndex = 1;
+            // 
+            // textBox13
+            // 
+            this.textBox13.Location = new System.Drawing.Point(107, 125);
+            this.textBox13.Name = "textBox13";
+            this.textBox13.Size = new System.Drawing.Size(182, 22);
+            this.textBox13.TabIndex = 1;
+            // 
+            // textBox12
+            // 
+            this.textBox12.Location = new System.Drawing.Point(107, 95);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.Size = new System.Drawing.Size(182, 22);
+            this.textBox12.TabIndex = 1;
+            // 
+            // textBox11
+            // 
+            this.textBox11.Location = new System.Drawing.Point(107, 65);
+            this.textBox11.Name = "textBox11";
+            this.textBox11.Size = new System.Drawing.Size(182, 22);
+            this.textBox11.TabIndex = 1;
+            // 
+            // textBox10
+            // 
+            this.textBox10.Location = new System.Drawing.Point(107, 39);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.Size = new System.Drawing.Size(182, 22);
+            this.textBox10.TabIndex = 1;
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.Location = new System.Drawing.Point(48, 191);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(37, 16);
+            this.label35.TabIndex = 0;
+            this.label35.Text = "Note";
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Location = new System.Drawing.Point(48, 162);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(80, 16);
+            this.label34.TabIndex = 0;
+            this.label34.Text = "Designation";
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(48, 130);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(59, 16);
+            this.label33.TabIndex = 0;
+            this.label33.Text = "Address";
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(48, 99);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(45, 16);
+            this.label32.TabIndex = 0;
+            this.label32.Text = "Name";
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Location = new System.Drawing.Point(48, 69);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(47, 16);
+            this.label31.TabIndex = 0;
+            this.label31.Text = "Phone";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(21, 39);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(82, 16);
+            this.label30.TabIndex = 0;
+            this.label30.Text = "Customer Id:";
+            // 
+            // propertyGrid1
+            // 
+            this.propertyGrid1.Location = new System.Drawing.Point(3, 0);
+            this.propertyGrid1.Name = "propertyGrid1";
+            this.propertyGrid1.Size = new System.Drawing.Size(354, 488);
+            this.propertyGrid1.TabIndex = 0;
+            // 
+            // cashBookTabPage
+            // 
+            this.cashBookTabPage.Location = new System.Drawing.Point(4, 29);
+            this.cashBookTabPage.Name = "cashBookTabPage";
+            this.cashBookTabPage.Padding = new System.Windows.Forms.Padding(3);
+            this.cashBookTabPage.Size = new System.Drawing.Size(764, 536);
+            this.cashBookTabPage.TabIndex = 5;
+            this.cashBookTabPage.Text = "Cash Book";
+            this.cashBookTabPage.UseVisualStyleBackColor = true;
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fileToolStripMenuItem,
+            this.expenditureToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(784, 24);
+            this.menuStrip1.TabIndex = 1;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // fileToolStripMenuItem
+            // 
+            this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.fileToolStripMenuItem.Text = "File";
+            // 
+            // expenditureToolStripMenuItem
+            // 
+            this.expenditureToolStripMenuItem.Name = "expenditureToolStripMenuItem";
+            this.expenditureToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
+            this.expenditureToolStripMenuItem.Text = "Expenditure";
             // 
             // Booking
             // 
@@ -1942,31 +1943,31 @@
             this.searchTabPage.ResumeLayout(false);
             this.tabControl2.ResumeLayout(false);
             this.shopStuffTbPage.ResumeLayout(false);
-            this.tailoringStuffTabPage.ResumeLayout(false);
-            this.customerTabPage.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            this.cuttingStuffTabPage.ResumeLayout(false);
-            this.suppliersTabPage.ResumeLayout(false);
-            this.measurmentsTabPage.ResumeLayout(false);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            this.tailoringStuffTabPage.ResumeLayout(false);
             this.panel9.ResumeLayout(false);
             this.panel9.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
-            this.panel10.ResumeLayout(false);
-            this.panel10.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
+            this.customerTabPage.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.cuttingStuffTabPage.ResumeLayout(false);
             this.panel11.ResumeLayout(false);
             this.panel11.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView5)).EndInit();
+            this.suppliersTabPage.ResumeLayout(false);
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
+            this.measurmentsTabPage.ResumeLayout(false);
             this.panel12.ResumeLayout(false);
             this.panel13.ResumeLayout(false);
             this.panel13.PerformLayout();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
