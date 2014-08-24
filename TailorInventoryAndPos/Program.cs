@@ -20,7 +20,7 @@ namespace TailorInventoryAndPos
            // Application.Run(new LoginForm());
             //Application.Run(new Booking());
            // Application.Run(new NewStaff());
-            Application.Run(new HomePage());
+            Application.Run(new Booking());
         }
     }
 }
